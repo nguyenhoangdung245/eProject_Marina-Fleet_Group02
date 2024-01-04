@@ -11,7 +11,7 @@
 
 =======================================
 
-Documentations : https://github.com/nguyenhoangdung245/eProject_Marina-Fleet_Group02
+Documentations : https://github.com/nguyenhoangdung245/eProject_Marina-Fleet_Group02/tree/main/Documentations
 
 =======================================
 
